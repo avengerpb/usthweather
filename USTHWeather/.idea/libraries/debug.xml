@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b0cda4da0ecc13b692ab2458f443d1b9520c94b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_43b1fbae01c43aabd0be5d9027a83700da6b6353.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_73322e9af8238b228e153649f17749093e08a53a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_ef8c8fd84e4b3ba01e3464424d61cbc3c37c90cd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_68c535a8cade656f7502fd98908689f85f823ee7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_de3980b029d3bf780491cb185cd2872fa6b00f48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_a6b6c4015f5016e1a2a8519e84e479b7e4ee4eff.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1e9247513d8a258e46ccda6f7c8dddbedeef51d3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4ca845aae520430f0c8e680a8c87b616de35bd60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run_247f0d5e716f84a8aac04c3ad1b987094ff1a5cd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_a4de3fea3d4bbdcfd9b3096bac44a946178d5550.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_c8dbc1990f6c059196bdddbc861453be4e7e8fe3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_73e293361497718f9190b7ff944993e4572ddaf1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_48cbc311af7f8a12e53faf20bc4f70b2fe48ef12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_0d2f74d2f6ac2f77c37fd756bde70eee749265db.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_7f97e205473ffb12dfa5711f7a1c1d5cde7c1247.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_4e9436f0987e91610e571c5a44d8016ff4b4c861.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_66e490dc85d724a71908ec9d66804abc8d53720a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_92393ca1d7f23d7152958ab4638396d6d9b6349e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_b8168a1769e362b2be0eeab585c3581da5f5caf9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/main_1f57afe41038a21c5ea8f895607b17c7fab972e2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
